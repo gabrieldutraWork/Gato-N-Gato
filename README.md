@@ -1,4 +1,4 @@
-# INE5430-Inteligencia-ArtificiaTrabalho-Pratico-Gato-vs-Nao-Gato
+# Gato-vs-Nao-Gato
 ## Pre-Requesito
 [python>=3.10.12](https://www.python.org/downloads/)
 
