@@ -9,8 +9,8 @@ Este projeto tem como objetivo construir um classificador de imagens capaz de di
 Utilizando técnicas de aprendizado de máquina e visão computacional, o sistema foi treinado com um conjunto de dados rotulado, aplicando pré-processamento de imagens, extração de características e algoritmos de classificação supervisionada.
 
 - O projeto demonstra os principais conceitos:
-  - Manipulação e preparação de dados visuais
-  - Treinamento e avaliação de modelos de classificação
+  - Manipulação e preparação de dados visuais.
+  - Treinamento e avaliação de modelos de classificação.
   - Uso de métricas de desempenho para validação dos resultados.
 
 ## Dependências
