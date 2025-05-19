@@ -4,7 +4,9 @@
 
 ## Sobre
 
-Este projeto tem como objetivo construir um classificador de imagens capaz de distinguir entre imagens que contêm gatos e imagens que não contêm gatos.Utilizando técnicas de aprendizado de máquina e visão computacional, o sistema foi treinado com um conjunto de dados rotulado, aplicando pré-processamento de imagens, extração de características e algoritmos de classificação supervisionada.
+Este projeto tem como objetivo construir um classificador de imagens capaz de distinguir entre imagens que contêm gatos e imagens que não contêm gatos.
+
+Utilizando técnicas de aprendizado de máquina e visão computacional, o sistema foi treinado com um conjunto de dados rotulado, aplicando pré-processamento de imagens, extração de características e algoritmos de classificação supervisionada.
 
 - O projeto demonstra os principais conceitos:
   - Manipulação e preparação de dados visuais
